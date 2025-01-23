@@ -1,0 +1,27 @@
+{
+  "name": "snip_link",
+  "version": "1.0.0",
+  "description": "url shortener website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavkundan516601/snip-_link.git"
+  },
+  "keywords": [
+    "url",
+    "shortner"
+  ],
+  "author": "kundan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavkundan516601/snip-_link/issues"
+  },
+  "homepage": "https://github.com/yadavkundan516601/snip-_link#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
